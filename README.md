@@ -18,7 +18,7 @@ As part of the job, I regularly audit the file system permissions to make sure t
  <li>Modification of permissions to authorize appropriate users and remove unauthorized access.</li>
 </ul>
 
-By usingLinux commands, you can audit file permissions and modify them as needed to ensure that only authorized users have access to files. This helps to keep the file system secure and protect the confidentiality, integrity, and availability of data.
+By using Linux commands, you can audit file permissions and modify them as needed to ensure that only authorized users have access to files. This helps to keep the file system secure and protect the confidentiality, integrity, and availability of data.
 
 
 <h2>Environments Used:</h2>
